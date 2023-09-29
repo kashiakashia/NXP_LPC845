@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm\bin\armJET.dll" 
+
+"C:\Projekty\NXP\NXP_Config\2023-09-10 NXP\2023-09-10 NXP\Debug\Exe\NXP.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm/config/debugger/NXP/LPC82x.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.1_2\arm/config/flashloader/NXP/FlashLPC84x_64KRAM16K.board" 
+
+
+
+
